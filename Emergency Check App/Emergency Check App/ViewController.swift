@@ -11,9 +11,15 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func profileClick(_ sender: Any) {
+    }
+    
+    @IBAction func groupsClick(_ sender: Any) {
+    }
+    
+    @IBAction func settingsClick(_ sender: Any) {
+    }
 }
 
